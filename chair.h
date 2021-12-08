@@ -1,0 +1,15 @@
+#ifndef CHAIR_H
+#define CHAIR_H
+
+#include <GL/glut.h>
+#include <GL/freeglut_ext.h>
+
+class Chair {  // The Class
+
+public: // Access Specifier
+	void drawChair(); // Method/function declaration
+
+};
+
+#endif
+
